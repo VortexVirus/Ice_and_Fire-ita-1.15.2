@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: IceAndFire1.15.2
+Implementation-Version: 2.1.0-1.15.2
+Specification-Vendor: alexthe666
+Specification-Title: iceandfire
+Implementation-Timestamp: 2020-10-12T14:08:58-0700
+Specification-Version: 2.0.3
+Implementation-Vendor: examplemodsareus
+
